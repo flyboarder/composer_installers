@@ -6,7 +6,7 @@
     "keywords": [
         "installer", "cakephp", "laravel",
         "li3", "lithium", "fuelphp",
-        "codeigniter", "symfony", "phpbb", "ppi",
+        "codeigniter", "symfony", "symfony2", "phpbb", "ppi",
         "joomla", "wordpress", "drupal", "zend"
     ],
     "authors": [
@@ -14,6 +14,9 @@
             "name": "Kyle Robinson Young",
             "email": "kyle@dontkry.com",
             "homepage": "https://github.com/shama"
+        }, {
+        	"name": "Matthew Ratzke",
+        	"email": "matthew.003@me.com"
         }
     ],
     "autoload": {
